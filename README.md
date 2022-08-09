@@ -1,6 +1,6 @@
 # EasyApply-Linkedin
 
-With this tool you can easily automate the process of applying for jobs on LinkedIn!
+With this tool you can easily automate the process of applying for jobs on LinkedIn easy apply!
 
 ## Getting started
 
